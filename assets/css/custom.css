@@ -13,12 +13,15 @@
 .btn { border-radius: 0; }
 
 /* Custom emojis */
+.update { background-image: url('../images/update.png'); }
+.remove { background-image: url('../images/remove.png'); }
+.add { background-image: url('../images/add.png'); }
 .bot {
   background-image: url('https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/209/robot-face_1f916.png');
   vertical-align: -.3em;
-  height: 1.25em;
-  width: 1.25em;
-  background-size: 1.25em 1.25em;
+  height: 2.00em;
+  width: 2.00em;
+  background-size: 2.00em 2.00em;
 }
 
 /* R e s p o n s i v e */
